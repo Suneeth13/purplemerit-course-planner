@@ -1,0 +1,15 @@
+langchain-community
+langchain-chroma
+chromadb
+sentence-transformers
+beautifulsoup4
+pypdf
+requests
+gradio
+pandas
+tiktoken
+langchain-huggingface
+crewai==0.65.0
+crewai-tools==0.23.0
+duckduckgo-search
+

@@ -1,0 +1,127 @@
+[
+  {
+    "category": "Prerequisite Check",
+    "query": "Can I take 6-1040 if I have completed 6-01 and 6-02?",
+    "expected_type": "Eligibility"
+  },
+  {
+    "category": "Prerequisite Check",
+    "query": "Is 6-033's prerequisite 6-01?",
+    "expected_type": "Eligibility"
+  },
+  {
+    "category": "Prerequisite Check",
+    "query": "I completed 6-0001. Am I eligible for 6-0002?",
+    "expected_type": "Eligibility"
+  },
+  {
+    "category": "Prerequisite Check",
+    "query": "Can I take 6-1210 without any prior programming?",
+    "expected_type": "Eligibility"
+  },
+  {
+    "category": "Prerequisite Check",
+    "query": "What do I need before enrolling in 6-042J?",
+    "expected_type": "Info"
+  },
+  {
+    "category": "Prerequisite Check",
+    "query": "Can I take 6-1400J if I only took MATH 18.01?",
+    "expected_type": "Eligibility"
+  },
+  {
+    "category": "Prerequisite Check",
+    "query": "Is instructor consent enough for 6-08?",
+    "expected_type": "Policy"
+  },
+  {
+    "category": "Prerequisite Check",
+    "query": "Does 6-06 require 6-01?",
+    "expected_type": "Eligibility"
+  },
+  {
+    "category": "Prerequisite Check",
+    "query": "Can I take 6-1200J concurrently with its co-requisite?",
+    "expected_type": "Eligibility"
+  },
+  {
+    "category": "Prerequisite Check",
+    "query": "I am a graduate student. Do I still need 6-01 for 6-02?",
+    "expected_type": "Policy"
+  },
+  {
+    "category": "Prerequisite Chain",
+    "query": "What is the full sequence of courses needed to reach 6-036?",
+    "expected_type": "Chain"
+  },
+  {
+    "category": "Prerequisite Chain",
+    "query": "If I want to take 6-1210, 6-033, and 6-036 eventually, what should be my first 3 courses?",
+    "expected_type": "Plan"
+  },
+  {
+    "category": "Prerequisite Chain",
+    "query": "Does 6-03 require anything that itself has a prerequisite?",
+    "expected_type": "Chain"
+  },
+  {
+    "category": "Prerequisite Chain",
+    "query": "To take 6-1040, how many 'hops' of prerequisites are there from 6-01?",
+    "expected_type": "Chain"
+  },
+  {
+    "category": "Prerequisite Chain",
+    "query": "List all courses I must take before I am eligible for the Advanced Discrete Math course.",
+    "expected_type": "Chain"
+  },
+  {
+    "category": "Program Requirement",
+    "query": "How many credits are required for a 6-3 (Computer Science) major?",
+    "expected_type": "Program"
+  },
+  {
+    "category": "Program Requirement",
+    "query": "Does 6-3 require a thesis or senior project?",
+    "expected_type": "Program"
+  },
+  {
+    "category": "Program Requirement",
+    "query": "Can I count 6-0001 towards my EECS electives?",
+    "expected_type": "Rule"
+  },
+  {
+    "category": "Program Requirement",
+    "query": "What are the residency requirements for an EECS degree?",
+    "expected_type": "Policy"
+  },
+  {
+    "category": "Program Requirement",
+    "query": "How many 'Header' courses are required for the EE vs CS tracks?",
+    "expected_type": "Program"
+  },
+  {
+    "category": "Not in Docs / Trick",
+    "query": "Is 6-02 offered in the Fall 2027 semester?",
+    "expected_type": "Abstention"
+  },
+  {
+    "category": "Not in Docs / Trick",
+    "query": "Who is the instructor for 6-03 this term?",
+    "expected_type": "Abstention"
+  },
+  {
+    "category": "Not in Docs / Trick",
+    "query": "Can I get a refund for my lab fee if I drop 6-02 late?",
+    "expected_type": "Abstention"
+  },
+  {
+    "category": "Not in Docs / Trick",
+    "query": "What is the average GPA of students in 6-036?",
+    "expected_type": "Abstention"
+  },
+  {
+    "category": "Not in Docs / Trick",
+    "query": "Does Professor Smith allow late submissions for his EECS course?",
+    "expected_type": "Abstention"
+  }
+]

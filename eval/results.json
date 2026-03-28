@@ -1,0 +1,157 @@
+{
+  "total_queries": 25,
+  "citation_coverage_rate": "0.00%",
+  "abstention_accuracy": "100.00%",
+  "results": [
+    {
+      "query": "Can I take 6-1040 if I have completed 6-01 and 6-02?",
+      "category": "Prerequisite Check",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: Can I take 6-1040 if I have completed 6-01 and 6-0...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "Is 6-033's prerequisite 6-01?",
+      "category": "Prerequisite Check",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: Is 6-033's prerequisite 6-01?...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "I completed 6-0001. Am I eligible for 6-0002?",
+      "category": "Prerequisite Check",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: I completed 6-0001. Am I eligible for 6-0002?...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "Can I take 6-1210 without any prior programming?",
+      "category": "Prerequisite Check",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: Can I take 6-1210 without any prior programming?...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "What do I need before enrolling in 6-042J?",
+      "category": "Prerequisite Check",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: What do I need before enrolling in 6-042J?...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "Can I take 6-1400J if I only took MATH 18.01?",
+      "category": "Prerequisite Check",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: Can I take 6-1400J if I only took MATH 18.01?...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "Is instructor consent enough for 6-08?",
+      "category": "Prerequisite Check",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: Is instructor consent enough for 6-08?...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "Does 6-06 require 6-01?",
+      "category": "Prerequisite Check",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: Does 6-06 require 6-01?...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "Can I take 6-1200J concurrently with its co-requisite?",
+      "category": "Prerequisite Check",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: Can I take 6-1200J concurrently with its co-requis...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "I am a graduate student. Do I still need 6-01 for 6-02?",
+      "category": "Prerequisite Check",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: I am a graduate student. Do I still need 6-01 for ...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "What is the full sequence of courses needed to reach 6-036?",
+      "category": "Prerequisite Chain",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: What is the full sequence of courses needed to rea...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "If I want to take 6-1210, 6-033, and 6-036 eventually, what should be my first 3 courses?",
+      "category": "Prerequisite Chain",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: If I want to take 6-1210, 6-033, and 6-036 eventua...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "Does 6-03 require anything that itself has a prerequisite?",
+      "category": "Prerequisite Chain",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: Does 6-03 require anything that itself has a prere...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "To take 6-1040, how many 'hops' of prerequisites are there from 6-01?",
+      "category": "Prerequisite Chain",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: To take 6-1040, how many 'hops' of prerequisites a...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "List all courses I must take before I am eligible for the Advanced Discrete Math course.",
+      "category": "Prerequisite Chain",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: List all courses I must take before I am eligible ...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "How many credits are required for a 6-3 (Computer Science) major?",
+      "category": "Program Requirement",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: How many credits are required for a 6-3 (Computer ...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "Does 6-3 require a thesis or senior project?",
+      "category": "Program Requirement",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: Does 6-3 require a thesis or senior project?...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "Can I count 6-0001 towards my EECS electives?",
+      "category": "Program Requirement",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: Can I count 6-0001 towards my EECS electives?...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "What are the residency requirements for an EECS degree?",
+      "category": "Program Requirement",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: What are the residency requirements for an EECS de...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "How many 'Header' courses are required for the EE vs CS tracks?",
+      "category": "Program Requirement",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: How many 'Header' courses are required for the EE ...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "Is 6-02 offered in the Fall 2027 semester?",
+      "category": "Not in Docs / Trick",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: Is 6-02 offered in the Fall 2027 semester?...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "Who is the instructor for 6-03 this term?",
+      "category": "Not in Docs / Trick",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: Who is the instructor for 6-03 this term?...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "Can I get a refund for my lab fee if I drop 6-02 late?",
+      "category": "Not in Docs / Trick",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: Can I get a refund for my lab fee if I drop 6-02 l...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "What is the average GPA of students in 6-036?",
+      "category": "Not in Docs / Trick",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: What is the average GPA of students in 6-036?...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    },
+    {
+      "query": "Does Professor Smith allow late submissions for his EECS course?",
+      "category": "Not in Docs / Trick",
+      "response": "Answer / Plan: [GEMINI OFFLINE] The assistant is configured for Google Gemini but requires a valid GOOGLE_API_KEY.\nWhy (requirements/prereqs satisfied): Reasoning requires active Gemini API over context: Does Professor Smith allow late submissions for hi...\nCitations: Successfully retrieved 10 snippets from ChromaDB.\nClarifying questions (if needed): 1. What is your major? 2. What catalog year are you following?\nAssumptions / Not in catalog: Policy default to MIT Course 6-3 rules.",
+      "has_citation": false
+    }
+  ]
+}
