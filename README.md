@@ -50,22 +50,8 @@ Tested on **25 queries** covering:
 - **Abstention Accuracy**: 100% (No Hallucinations)  
 - **Correctness**: Verified against MIT Registrar (90%+)  
 
-## 📸 Sample Outputs
-Below are screenshots demonstrating the assistant correctly providing structured responses and handling missing information/safe abstention.
-
-*(Place your screenshots in the `assets/` folder with these names, or update the links below)*
-
-1. **Handling Out-of-Catalog Questions (Safe Abstention)**:  
-   ![Prerequisite Abstention](assets/screenshot_6-033.png)  
-   *The assistant correctly identifies that '6-033' prerequisites are not in the loaded catalog snippets.*
-
-2. **Grounded Prerequisite Reasoning with Citations**:  
-   ![Prerequisite Reasoning with Citations](assets/screenshot_6-1200J.png)  
-   *The assistant cites courses that list '6-1200J' as a prerequisite, but refuses to guess its prerequisites blindly, ensuring adherence to the strict formatting and citation policy.*
 
 ## 📄 Documentation
 - **[report.md](file:///d:/Purple%20Merit/report.md)**: Detailed 1-page architecture write-up.
 - **[queries.json](file:///d:/Purple%20Merit/eval/queries.json)**: Full test set.
 
-## 🎥 Demo Video Recommendation
-Suggested demo: Ask for a 6-3 course plan with completed courses `6-01, 18.01` to see multi-course suggestions with justifications.
