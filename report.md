@@ -49,4 +49,3 @@ pip install -r requirements_simple.txt
 python src/ingest_fixed.py
 python src/app.py
 ```
-*Note: Ensure `OPENAI_API_KEY` is set in the environment or `.env` file.*
